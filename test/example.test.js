@@ -17,6 +17,6 @@ test('concat two strings', (expect) => {
     expect.equal(actual, expected);
 });
 
-function concat(string1, string2)
+function concat(string1, string2);
 
 
